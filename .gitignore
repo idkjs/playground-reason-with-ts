@@ -1,0 +1,7 @@
+
+**/*.gen.tsx
+**/*.bs.js
+.merlin
+lib/bs
+dist/
+.bsb.lock

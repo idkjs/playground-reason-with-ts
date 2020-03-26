@@ -1,0 +1,10 @@
+{
+  "collectCoverageFrom": [
+    "src/**/*.{js,ts}",
+    "!src/**/*.bs.js"
+  ],
+  "testPathIgnorePatterns": [],
+  "testMatch": ["<rootDir>/src/**/?(*.)(test).{js,ts}?(x)"],
+  "coverageDirectory": ".coverage/",
+  "restoreMocks": true
+}
