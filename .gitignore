@@ -5,3 +5,4 @@
 lib/bs
 dist/
 .bsb.lock
+node_modules/
